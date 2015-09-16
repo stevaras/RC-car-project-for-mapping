@@ -7,3 +7,6 @@ It's a remote control vehicle that features livestreaming cam view and the updat
 movements in a space. 
 
 It combines Arduino Uno, Raspberry Pi and the Processing software. :)
+
+You can see a video of the project here: 
+https://www.youtube.com/watch?v=ahxDvseNfkQ
